@@ -1,0 +1,298 @@
+[
+    {
+        "name":"Egg",
+        "ID": 111,
+        "id":"a1",
+        "isSelected": false,
+        "Cuisine":"1",
+        "type":"Breakfast",
+        "price":"25$",
+        "time": "30min",
+        "url":"https://images.pexels.com/photos/101533/pexels-photo-101533.jpeg?auto=compress&cs=tinysrgb&w=400",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem."
+    },
+    {
+        "name":"Advocado toast",
+        "ID":222,
+        "id":"a2",
+        "price":"15$",
+        "isSelected": false,
+        "type":"Breakfast",
+        "Cuisine":"1",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+         "time": "40min",
+        "url": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Egg, vegetables and bacon",
+        "ID":333,
+        "id":"a3",
+        "price":"25$",
+        "isSelected": false,
+        "type":"Breakfast",
+        "Cuisine":"1",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "time": "20min",
+        "url": "https://images.pexels.com/photos/1833337/pexels-photo-1833337.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Cereal with milk and raspberry",
+        "ID":444,
+        "id":"a4",
+        "isSelected": false,
+        "type":"Breakfast",
+        "price":"17$",
+        "Cuisine":"1",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "time": "15min",
+        "url":"https://images.pexels.com/photos/2115653/pexels-photo-2115653.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Sandwich",
+        "ID":555,
+        "id":"a5",
+        "type":"Breakfast",
+        "Cuisine":"1",
+        "isSelected": false,
+        "price":"10$",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "time": "30min",
+        "url":"https://images.pexels.com/photos/461382/pexels-photo-461382.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+
+
+    {
+        "name":"Burger",
+        "ID":666,
+        "id":"a6",
+        "isSelected": false,
+        "price":"22$",
+        "type":"Lunch",
+        "time": "37min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "Cuisine":"2",
+        "url":"https://images.pexels.com/photos/918581/pexels-photo-918581.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Salad",
+        "ID":777,
+        "id":"a7",
+        "type":"Lunch",
+        "price":"20$",
+        "isSelected": false,
+        "time": "39min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "Cuisine":"2",
+        "url":"https://images.pexels.com/photos/1639556/pexels-photo-1639556.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Chicken wrap",
+        "ID":888,
+        "id":"a8",
+        "type":"Lunch",
+        "isSelected": false,
+        "Cuisine":"2",
+        "price":"12$",
+        "time": "10min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/12737661/pexels-photo-12737661.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Pumpkin Soup",
+        "ID":999,
+        "id":"a9",
+        "isSelected": false,
+        "price":"12$",
+        "time": "45min",
+        "type":"Lunch",
+        "Cuisine":"2",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Fish with rice",
+        "ID":1000,
+        "id":"a10",
+        "Cuisine":"2",
+        "price":"26$",
+        "type":"Lunch",
+        "isSelected": false,
+        "time": "15min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/3345727/pexels-photo-3345727.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+
+
+
+    {
+        "name":"Fried Potato with grilled pork neck",
+        "ID":1001,
+        "id":"a11",
+        "isSelected": false,
+        "type":"Dinner",
+        "price":"33$",
+        "Cuisine":"3",
+        "time": "45min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/27643017/pexels-photo-27643017/free-photo-of-a-steak-and-fries-on-a-plate-with-a-fork.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Roasted meat with mushroom sauce",
+        "ID":1002,
+        "id":"a12",
+        "isSelected": false,
+        "Cuisine":"3",
+        "type":"Dinner",
+        "price":"29$",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "time": "34min",
+        "url":"https://images.pexels.com/photos/8753772/pexels-photo-8753772.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Lasagna",
+        "ID":1003,
+        "id":"a13",
+        "isSelected": false,
+        "type":"Dinner",
+        "price":"18$",
+        "time": "55min",
+        "Cuisine":"3",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/27583251/pexels-photo-27583251/free-photo-of-a-plate-topped-with-a-lasagna-and-tomato-sauce.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Pizza",
+        "ID":1004,
+        "id":"a14",
+        "isSelected": false,
+        "type":"Dinner",
+        "Cuisine":"3",
+        "price":"8$",
+        "time": "14min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/845808/pexels-photo-845808.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Spaghetti Carbonara",
+        "ID":1005,
+        "id":"a15",
+        "isSelected": false,
+        "type":"Dinner",
+        "price":"14$",
+        "time": "30min",
+        "Cuisine":"3",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/20352388/pexels-photo-20352388/free-photo-of-pasta-with-egg.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Spaghetti Vegetables",
+        "ID":1025,
+        "id":"a16",
+        "isSelected": false,
+        "type":"Dinner",
+        "Cuisine":"3",
+        "price":"10$",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "time": "22min",
+        "url":"https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Tacos",
+        "ID":1006,
+        "id":"a17",
+        "type":"Dinner",
+        "isSelected": false,
+        "price":"25$",
+        "time": "29min",
+        "Cuisine":"3",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/2087748/pexels-photo-2087748.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+
+
+
+    {
+        "name":"Pancakes",
+        "ID":1007,
+        "id":"a18",
+        "isSelected": false,
+        "price":"10$",
+        "type":"Dessert",
+        "time": "5min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "Cuisine":"4",
+        "url":"https://images.pexels.com/photos/3323680/pexels-photo-3323680.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Macarons",
+        "ID":1008,
+        "id":"a19",
+        "isSelected": false,
+        "type":"Dessert",
+        "price":"5$",
+        "Cuisine":"4",
+        "time": "16min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/808941/pexels-photo-808941.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Fruit tart",
+        "ID":1009,
+        "id":"a20",
+        "isSelected": false,
+        "time": "30min",
+        "price":"5.5$",
+        "type":"Dessert",
+        "Cuisine":"4",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/827513/pexels-photo-827513.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Chocolate Mousse",
+        "ID":1010,
+        "id":"a21",
+        "type":"Dessert",
+        "isSelected": false,
+        "price":"13.99$",
+        "time": "20min",
+        "Cuisine":"4",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/3026810/pexels-photo-3026810.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Brownies",
+        "ID":1011,
+        "id":"a22",
+        "isSelected": false,
+        "time": "40min",
+        "type":"Dessert",
+        "price":"15$",
+        "Cuisine":"4",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/3026804/pexels-photo-3026804.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Ice Cream",
+        "ID":1012,
+        "id":"a23",
+        "type":"Dessert",
+        "isSelected": false,
+        "price":"5$",
+        "time": "10min",
+        "Cuisine":"4",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg?auto=compress&cs=tinysrgb&w=400"
+    },
+    {
+        "name":"Cake",
+        "ID":1013,
+        "id":"a24",
+        "isSelected": false,
+        "type":"Dessert",
+        "price":"32$",
+        "Cuisine":"4",
+        "time": "30min",
+        "paragraph":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorum earum optio quia modi porro ad. Consectetur eaque ratione rerum, nisi totam at amet ullam atque et incidunt consequuntur reiciendis hic recusandae sint sequi minus commodi fugit maiores mollitia inventore animi libero! Molestiae quisquam illum quos? Perferendis dolorem voluptatibus tenetur dolore, a quasi laboriosam qui harum sint quod natus architecto in exercitationem et possimus, incidunt, facilis voluptatem quisquam provident. Fugiat eum quibusdam doloremque tempora ipsum perferendis animi consequatur deserunt unde dolore ratione culpa impedit nam laboriosam, quo autem. Error reprehenderit cupiditate, eligendi vitae alias vero repudiandae rem rerum tenetur excepturi esse dolore officia, saepe neque ipsam doloremque. Veniam eos autem cupiditate asperiores deserunt ducimus! Adipisci alias, iure enim distinctio dicta architecto mollitia impedit qui praesentium voluptatibus sit, earum placeat cumque dolore magnam optio nobis consectetur quasi asperiores, accusamus temporibus! Omnis dolores animi quod nostrum. Odit facere porro fugiat omnis consequatur dolorem.",
+        "url":"https://images.pexels.com/photos/2035735/pexels-photo-2035735.jpeg?auto=compress&cs=tinysrgb&w=400"
+    }
+]

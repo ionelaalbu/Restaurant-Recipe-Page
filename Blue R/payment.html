@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+    <meta name="author" content="IonelaAlbu">
+    <link rel="stylesheet" href="payment.css">
+    <script
+
+      src="https://kit.fontawesome.com/aed0be2434.js"
+
+      crossorigin="anonymous"
+
+    ></script>
+</head>
+<body>
+    <main class="ParentContainer">
+        <div class="container">
+           <h1>Payment infomation</h1>
+           <form id="payment-form" >
+                <div class="form-group">
+                    <label for="name">CardHolder Name</label>
+                    <input type="text" id="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="card-number">Card Number:</label>
+                    <input type="text" id="card-number" required>
+                </div>
+                <div class="form-group">
+                    <label for="expiry">Expiry Date (MM/YY): </label>
+                    <input type="text" id="expiry" required>
+                </div>
+                <div class="form-group">
+                    <label for="cvc">CVC</label>
+                    <input type="text" id="cvc" required>
+                </div>
+                <button class="btn" type="submit" >Pay Now</button>
+           </form>
+           
+        </div>
+
+        <div class="green" id="message">
+            <p>Payment successfully</p>
+            <i id="green" class="fa-regular fa-circle-check"></i>
+        </div>
+        <div class="red" id="message">
+            <p>Please fill in all fields</p>
+            <i id="red" class="fa-regular fa-circle-xmark"></i>
+        </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script type="module" src="payment.js"></script>
+</body>
+</html>

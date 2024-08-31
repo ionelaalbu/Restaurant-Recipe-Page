@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Breakfast",
+        "ID":1,
+        "isSelected": false
+    },
+    {
+        "name":"Lunch",
+        "ID":2,
+        "isSelected": false
+    },
+    {
+        "name":"Dinner",
+        "ID":3,
+        "isSelected": false
+    },
+    {
+        "name":"Dessert",
+        "ID":4,
+        "isSelected": false
+    }
+]

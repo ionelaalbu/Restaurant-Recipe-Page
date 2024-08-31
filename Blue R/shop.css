@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+:root{
+    --firstColor: #80ED99;
+    --secondColor: #45DFB1;
+    --thirdColor: #0AD1C8;
+    --fourthColor: #14919B;
+    --fifthColor: #0B6477;
+    --sixthColor: #213A57;
+    --activeColor: #3BF4FB;
+}
+.active{
+    color: var(--activeColor);
+}
+.ParentContainer{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #213A57,#0B6477,#14919B,#0AD1C8, #45DFB1,#80ED99);
+}
+header{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    align-items: center;
+    background-image: linear-gradient(to right, #213A57,#0B6477,#14919B,#0AD1C8, #45DFB1,#80ED99);
+    position: fixed;
+}
+.menu{
+    margin-left: auto;
+    font-size: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    margin-right: 10px;
+}
+.heading-1{
+    margin-left: 10px;
+    font-size: 50px;
+    color: var(--firstColor);
+}
+.icon{
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+    color: var(--sixthColor);
+}
+#count{
+    display: flex;
+    align-items: center;
+}
+.count{
+    position: absolute;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    background-color: red;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    visibility: hidden;
+}
+/*main*/
+.main{
+    margin-top: 170px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 600px;
+    padding: 0 20px 0 20px;
+}
+.CARD{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    color: #fff;
+    font-weight: 800;
+    box-shadow: 0 50px 50px black;
+
+}
+.img{
+    width: 350px;
+    padding: 0 3px;
+    height: 350px;
+    object-fit: cover;
+}
+button{
+    margin-top: 30px;
+    width: 70px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
